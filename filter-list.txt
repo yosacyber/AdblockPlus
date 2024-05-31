@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Test Block iklan "Adblock Plus"
+! Title: Daftar Blokir Iklan
 ! Expires: 1 days (update frequency)
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
@@ -9,3 +9,4 @@ kazesub.com##div.kc
 ! ----------------------- element hiding rules ------------------------!
 ##html > div
 ##html > iframe
+
