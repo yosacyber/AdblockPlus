@@ -1,3 +1,3 @@
 [Adblock Plus 2.0]
-! Title: Belajar memfilter Adblock Plus
+! Title: Test Block iklan "Adblock Plus"
 kazesub.com##div.blox.mlb.kln
