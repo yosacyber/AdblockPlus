@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Test Block iklan "Adblock Plus"
+! Expires: 1 days (update frequency)
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
 ||cdn.taboola.com
