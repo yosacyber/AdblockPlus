@@ -1,3 +1,4 @@
 [Adblock Plus 2.0]
 ! Title: Test Block iklan "Adblock Plus"
 kazesub.com##div.blox.mlb.kln
+kazesub.com##div.kln
