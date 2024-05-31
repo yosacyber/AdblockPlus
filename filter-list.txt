@@ -2,3 +2,4 @@
 ! Title: Test Block iklan "Adblock Plus"
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
+||cdn.taboola.com
