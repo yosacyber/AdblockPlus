@@ -3,6 +3,7 @@
 ! Expires: 1 days (update frequency)
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
+kazesub.com##div.kc
 ||cdn.taboola.com
 
 ! ----------------------- element hiding rules ------------------------!
