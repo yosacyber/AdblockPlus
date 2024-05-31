@@ -4,3 +4,7 @@
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
 ||cdn.taboola.com
+
+! ----------------------- element hiding rules ------------------------!
+##html > div
+##html > iframe
