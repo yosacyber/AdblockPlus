@@ -1,12 +1,60 @@
 [Adblock Plus 2.0]
 ! Title: Daftar Blokir Iklan
 ! Expires: 1 days (update frequency)
+
 kazesub.com##div.blox.mlb.kln
 kazesub.com##div.kln
 kazesub.com##div.kc
-||cdn.taboola.com
+
+tv2.sokuja.my.id##div#KinHbdxc
+tv2.sokuja.my.id##div#KsCreRt
+tv2.sokuja.my.id##div.kln
+
+||cdn.taboola.com^
+||doobuphoo.com^
+||chatango.com^
+||*.chatango.com^
+||histats.com^
+||*.histats.com^
+||*.googletagmanager.com^
+||*.digitaloceanspaces.com^
+||vftmarpvgg.com^
+||*.vftmarpvgg.com^
+||bhohazozps.com
+||*.bhohazozps.com
+||shoadseelry.com
+||*.shoadseelry.com
+||unfxswcuveb.com
+||*.unfxswcuveb.com
+||fbcdn.net
+||*.fbcdn.net
+||25e1657c6a.com
+||*.25e1657c6a.com
+||39963f5717.com
+||*.39963f5717.com
+||cinovmhuvxu.com
+||*.cinovmhuvxu.com
+||phallicbedsore.com
+||*.phallicbedsore.com
+||equiptmullein.top
+||*.equiptmullein.top
+||pippio.com
+||*.pippio.com
+||rezync.com
+||*.rezync.com
+||privacymanager.io
+||*.privacymanager.io
+||obgpm76tt0a0sgozk8l.com
+||*.obgpm76tt0a0sgozk8l.com
+||npdredinuid.com
+||*.npdredinuid.com
+||imrworldwide.com
+||*.imrworldwide.com
+||adnxs.com
+||*.adnxs.com
+||norardmirror.com
+||*.norardmirror.com
 
 ! ----------------------- element hiding rules ------------------------!
 ##html > div
 ##html > iframe
-
